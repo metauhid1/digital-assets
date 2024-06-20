@@ -1,4 +1,4 @@
-# Avalanche-Subnets
+# digital-asset
 
 ## ERC20 Token and Vault Smart Contract
 
@@ -45,10 +45,6 @@ This repository hosts two Solidity smart contracts: `ERC20.sol` and `vault.sol`.
 
 Once deployed, interact with the contracts through the provided functions:
 - Connect your EVM Subnet to Remix for transaction execution.
-
-## Authors
-
-- pras777
 
 ## License:
 
